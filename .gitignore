@@ -1,4 +1,14 @@
-.obsidian/
+# 忽略整个工作区状态和缓存
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# 忽略图谱布局（跨设备容易错乱）
+.obsidian/graph.json
+
+# 忽略所有插件的敏感配置文件（防止 Token 泄露）
+.obsidian/plugins/*/data.json
+
 .trash/
 
 # 系统临时文件
