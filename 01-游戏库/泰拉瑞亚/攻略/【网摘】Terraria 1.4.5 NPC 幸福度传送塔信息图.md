@@ -1,4 +1,4 @@
-原文地址：[https://www.reddit.com/r/Terraria/comments/1qz6u2m/terraria_145_npc_happiness_pylon_infographic/?tl=zh-hans](https://www.reddit.com/r/Terraria/comments/1qz6u2m/terraria_145_npc_happiness_pylon_infographic/?tl=zh-hans)
+	原文地址：[https://www.reddit.com/r/Terraria/comments/1qz6u2m/terraria_145_npc_happiness_pylon_infographic/?tl=zh-hans](https://www.reddit.com/r/Terraria/comments/1qz6u2m/terraria_145_npc_happiness_pylon_infographic/?tl=zh-hans)
 # 困难模式前
 
 ## **森林**
